@@ -9,7 +9,7 @@ ESP32_DEFAULT_BOOTLOADER_FORMAT = (
     "https://github.com/espressif/arduino-esp32/raw/2.0.5/"
     "tools/sdk/$MODEL$/bin/bootloader_$FLASH_MODE$_$FLASH_FREQ$.bin"
 )
-ESP32_DEFAULT_PARTITIONS =  "https://github.com/emsesp/EMS-ESP-Flasher/raw/main/partitions/partitions_$MODEL$_$FLASH$.bin"
+ESP32_DEFAULT_PARTITIONS =  "https://github.com/MichaelDvP/EMS-ESP-Flasher/raw/main/partitions/partitions_$MODEL$_$FLASH$.bin"
 
 
 # https://stackoverflow.com/a/3809435/8924614
